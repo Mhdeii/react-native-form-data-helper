@@ -1,0 +1,19 @@
+{
+  "name": "react-native-formdata-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
