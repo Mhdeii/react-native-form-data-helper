@@ -6,7 +6,17 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
-  "keywords": [],
+  "keywords": [
+    "react-native",
+    "formdata",
+    "upload",
+    "offline-support",
+    "retry",
+    "axios",
+    "typescript",
+    "file-upload",
+    "helper"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
